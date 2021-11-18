@@ -687,3 +687,6 @@
 04/04/2021 19:16:21 Accès à la page : ./createOrders.php
 04/04/2021 19:16:23 Accès à la page : ./createOrders.php
 04/04/2021 19:16:34 Accès à la page : ./createOrders.php
+18/11/2021 22:57:28 Accès à la page : ./getProducts.php
+18/11/2021 22:57:51 Accès à la page : ./getProducts.php
+18/11/2021 22:59:29 Accès à la page : ./getProducts.php
